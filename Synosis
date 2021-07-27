@@ -1,0 +1,36 @@
+SYNOPSIS
+Title: 
+Medicine Reminder Android App Project
+Introduction: 
+The Medicine reminder system is designed to help forgetful people in taking care of themselves in taking their medications at the correct time and in the correct amount. It has been observed that people in general neglect their health and give preference to other things than taking their medicines. This may not be harmful for lighter medicines, but for some strong and concentrated medicines, it can have further harmful effects to the body. This is exactly where medicine reminder system can help. This system takes up the prescription details from the user such as the duration of the prescription, the names of the medicines, the times they are to be taken and the amount of each medicine which is to be taken. If implemented properly, this will drastically decrease overdose of medicines due to forgetfulness and the patients will also be reminded to take their medicines.
+Scope of Project:
+The concept of Medication Tracker Mobile Apps is pretty much in rage nowadays, owing to their efficiency to help patients stay adherent to their medication and this is just the best way medical providers and pharmacists can enhance health outcomes, quality measures and decrease overall healthcare costs.
+Existing Systems:
+Several medication reminder systems have been built upon different concepts and on different platforms. Many people have started using healthcare related apps and their popularity has been growing but there are still several issues that have to be answered by them. After studying and analyzing few existing popular applications based on Android mobiles, some major findings noticed which reduce their popularity. That is everything needs to be done manually. We need an app which can reduce a lot of the manual work and automate stuff.
+Proposed System:
+The medicine reminder system will have one duty and that would be to remind the user that he is due for taking the medicine. We are trying to make sure that the user never forgets to take the medicine and hence we do the reminder in three ways. One is that we have visual indicator which would be the light. We also felt that if a person is not sitting close to pill box he may not notice the lights hence we have also added a buzzer which will give an auditory indication that the medicine needs to be taken. In the case that patient is outside, we have a mobile reminder app which will remind using mobile notifications for that time.
+
+Module and Module Division:
+Mobile Application 
+Backend Server
+Database Design
+Hardware and Software Specifications:
+	Hardware Specifications:
+Processor: Above Intel i3 for good development experience
+RAM: Minimum 8 GB
+Space on Hard disk: Minimum 40 GB
+
+	Software Specifications:
+Operating System: Windows / Linux
+Database: SQLite
+Tools and IDE: Android Studio
+Technologies : Java, SQLite, Android
+
+Personal Data:
+Name: Ms. Vaishnavi S. Choudhari
+Class: BCA III
+Team: 
+Vaishnavi  Choudhari
+Vaishnavi Rathi 
+Bharti Pokale
+	 
